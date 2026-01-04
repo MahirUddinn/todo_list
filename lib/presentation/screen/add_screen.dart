@@ -58,7 +58,7 @@ class _AddScreenState extends State<AddScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Add Task")),
+      appBar: AppBar(title: Text("Add ToDo")),
       body: Container(
         padding: EdgeInsets.all(8),
         child: Column(
